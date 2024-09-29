@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+fredapi
+scikit-learn
+yfinance
+TensorFlow
+Keras
+Statsmodels
+SQLAlchemy
+beautifulsoup4
+requests
+Flask
+Django
+plotly
